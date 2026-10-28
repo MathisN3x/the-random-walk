@@ -1,7 +1,7 @@
 ---
 title: "The Dirac Delta Function and Brownian Motion: A Friendly Introduction to Diffusion"
 date: 2026-10-28 17:30:00 +0300
-categories: [mathematics]
+categories: [physics,statistics]
 tags: [statistical-physics, dirac-delta, brownian-motion]
 description: "An accessible introduction to the Dirac delta distribution, Brownian motion, and the diffusion equation."
 math: true
